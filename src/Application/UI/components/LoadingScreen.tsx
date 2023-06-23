@@ -170,7 +170,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                         </div>
                         <div style={styles.headerInfo}>
                             <p>Released: 01/13/2000</p>
-                            <p>HHBIOS (C)2000 Heffernan Henry Inc.,</p>
+                            <p>HHBIOS (C)2000 Abdullah Sarder Inc.,</p>
                         </div>
                     </div>
                     <div style={styles.body} className="loading-screen-body">

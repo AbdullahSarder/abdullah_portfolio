@@ -3,6 +3,7 @@ const sources: Resource[] = [
         name: 'computerSetupModel',
         type: 'gltfModel',
         path: 'models/Computer/computer_setup.glb',
+        // path: 'models/Computer/gaming_desktop_pc.glb',
         // path: 'models/Computer/room+glb.glb',
     },
     {
