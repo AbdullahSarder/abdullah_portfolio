@@ -290,7 +290,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             <a
                                 style={styles.link}
                                 href={
-                                    'https://github.com/henryjeff/portfolio-website/issues/6'
+                                    'https://github.com/AbdullahSarder/abdullah_portfolio_inner'
                                 }
                             >
                                 bug in firefox
@@ -314,7 +314,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                             will need to use a different browser.
                         </p>
                         <div style={styles.spacer} />
-                        <p>Thank you - Henry</p>
+                        <p>Thank you - Abdullah</p>
                     </div>
                 </div>
             )}
